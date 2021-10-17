@@ -1,2 +1,2 @@
-# Intro-to--Learn-DRL
+# Intro-to-Learn-DRL
 A Introduction into Deep Reinforcement learning
